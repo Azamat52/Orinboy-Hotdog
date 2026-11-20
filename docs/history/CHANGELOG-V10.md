@@ -1,0 +1,1 @@
+v10: New provided O‘rinboy Hotdog Madir logo for customer navigation, removed logo only from customer login/register; admin logo unchanged. Fixed customer header, accessible hamburger navigation with overlay and responsive drawer. All ordering and authentication actions preserved.
